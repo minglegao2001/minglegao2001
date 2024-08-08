@@ -21,7 +21,7 @@ Click on the following links below to learn more about me: <br>
 Use the syntax above to add image using Markdown
 
 -->
-<img src="profile-pic/profile.jpeg" style="height: 250px; width:250px; border-radius: 50%"/>
+<img src="profile-pic/profile.jpeg" style = "height: 250px; width:250px; border-radius: 50%;"/>
 
 <!--
 **minglegao2001/minglegao2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
