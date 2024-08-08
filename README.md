@@ -10,12 +10,13 @@ My name is Ming Le Gao and I am a passionate programmer that is looking to pursu
 
 I know, I know. This github site looks really plain right now, but check back every 3 months and see the progress I'll be making 😉
 
-Click on the following links below to learn more about me:
+Click on the following links below to learn more about me: <br>
 [Resume](https://docs.google.com/document/d/1LGvoB-ZGkpGv6XJRXkkgYbpG1vfTlKWMqcmBhRUh0mY/edit) <br>
 [LinkedIn](https://www.linkedin.com/in/minglegao/) <br>
 [Github Profile ](https://github.com/minglegao2001)
 
-![](profile-pic/profile.jpeg | width = 50)
+//![](profile-pic/profile.jpeg)
+<img src="profile-pic/profile.jpeg" style="height: 100px; width:100px;"/>
 
 <!--
 **minglegao2001/minglegao2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
