@@ -15,7 +15,7 @@ Click on the following links below to learn more about me: <br>
 [LinkedIn](https://www.linkedin.com/in/minglegao/) <br>
 [Github Profile ](https://github.com/minglegao2001)
 
-//![](profile-pic/profile.jpeg)
+<!-- ![](profile-pic/profile.jpeg) -->
 <img src="profile-pic/profile.jpeg" style="height: 100px; width:100px;"/>
 
 <!--
