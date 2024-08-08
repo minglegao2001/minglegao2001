@@ -15,8 +15,13 @@ Click on the following links below to learn more about me: <br>
 [LinkedIn](https://www.linkedin.com/in/minglegao/) <br>
 [Github Profile ](https://github.com/minglegao2001)
 
-<!-- ![](profile-pic/profile.jpeg) -->
-<img src="profile-pic/profile.jpeg" style="height: 100px; width:100px;"/>
+<!-- 
+
+![](profile-pic/profile.jpeg) 
+Use the syntax above to add image using Markdown
+
+-->
+<img src="profile-pic/profile.jpeg" style="height: 250px; width:250px border-radius: 50%;"/>
 
 <!--
 **minglegao2001/minglegao2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
