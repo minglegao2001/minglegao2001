@@ -10,8 +10,8 @@
 GIF in Github
 ![Hi There](profile-pic/githubGIF.gif)
 
-Using Postimg as Host
-[![Kenma-Hinata.jpg](https://i.postimg.cc/N06QNpMj/Kenma-Hinata.jpg)](https://postimg.cc/SXK0RLCB)
+Via Original Source
+[![Kenma-Hinata.jpg](https://media.tenor.com/c0gkOH-hN7QAAAAM/hinata-shouyou-kozume-kenma.gif)
 
 Welcome to Ming's World!
 My name is Ming Le Gao and I am a passionate programmer that is looking to pursuit a career in **Full Stack Web Design**!
