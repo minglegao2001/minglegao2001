@@ -8,7 +8,7 @@
 <!--![GIF Test]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.tenor.com/c0gkOH-hN7QAAAAM/hinata-shouyou-kozume-kenma.gif))-->
 
 GIF in Github
-![Hi There](profile-pic/profile.jpeg)
+![Hi There](profile-pic/githubGIF.gif)
 
 Using Postimg as Host
 [![Kenma-Hinata.jpg](https://i.postimg.cc/N06QNpMj/Kenma-Hinata.jpg)](https://postimg.cc/SXK0RLCB)
