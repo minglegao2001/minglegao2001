@@ -5,7 +5,9 @@
 3. Links to your LinkedIn, and Github Profile
 -->
 
-![GIF Test]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.tenor.com/c0gkOH-hN7QAAAAM/hinata-shouyou-kozume-kenma.gif))
+<!--![GIF Test]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.tenor.com/c0gkOH-hN7QAAAAM/hinata-shouyou-kozume-kenma.gif))-->
+
+[![Kenma-Hinata.jpg](https://i.postimg.cc/N06QNpMj/Kenma-Hinata.jpg)](https://postimg.cc/SXK0RLCB)
 
 Welcome to Ming's World!
 My name is Ming Le Gao and I am a passionate programmer that is looking to pursuit a career in **Full Stack Web Design**!
